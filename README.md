@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/hw3579/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/zhanruix07/count.svg)
 
-![hw3579's GitHub stats](https://github-readme-stats.vercel.app/api?username=hw3579&show_icons=true&theme=radical)
+![zhanruix07 GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanruix07&show_icons=true&theme=radical)
 
 
 
@@ -10,7 +10,7 @@
 
 
 <!--
-**hw3579/hw3579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zhanruix07/zhanruix07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
