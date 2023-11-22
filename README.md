@@ -5,8 +5,5 @@
 [![](https://activity-graph.herokuapp.com/graph?username=zhanruix07&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![zhanruix07's github stats](https://github-readme-stats.vercel.app/api?username=zhanruix07&show_icons=true&theme=vue) 
 
-
-
-
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
