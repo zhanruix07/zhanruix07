@@ -1,9 +1,8 @@
 ### Hello
 
 [![](https://activity-graph.herokuapp.com/graph?username=zhanruix07&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![zhanruix07's github stats](https://github-readme-stats.vercel.app/api?username=zhanruix07&show_icons=true&theme=vue)
+![zhanruix07's github stats](https://github-readme-stats.vercel.app/api?username=zhanruix07&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanruix07&langs_count=6)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanruix07&langs_count=6)
 
 
 
