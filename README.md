@@ -5,6 +5,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanruix07&layout=compact&langs_count=6)
 ![](https://activity-graph.herokuapp.com/graph?username=zhanruix07&theme=dracula) 
 
-![](https://img.shields.io/badge/Python-%23669FF7FF) ![](https://img.shields.io/badge/LaTeX-%23669FF7FF) ![](https://img.shields.io/badge/Photograph-%23766BF7FF) ![](https://img.shields.io/badge/HIFI-%23766BF7FF)
+![](https://img.shields.io/badge/Python-%23669FF7FF) ![](https://img.shields.io/badge/LaTeX-%23669FF7FF)  ![](https://img.shields.io/badge/MATLAB-%23669FF7FF)  ![](https://img.shields.io/badge/Photograph-%23766BF7FF) ![](https://img.shields.io/badge/HIFI-%23766BF7FF)
 
 
