@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 ![Visitor Count](https://profile-counter.glitch.me/zhanruix07/count.svg)
 
@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ### Github 活跃度
 
-#[![](https://activity-graph.herokuapp.com/graph?username=zhanruix07&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![zhanruix07's github stats](https://github-readme-stats.vercel.app/api?username=zhanruix07&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=zhanruix07&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanruix07&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanruix07&layout=compact&langs_count=6)
